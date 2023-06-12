@@ -1,2 +1,1 @@
-first line
-changes on second branch
+new line on second branch
