@@ -2,3 +2,5 @@ main
 first branch
 changes on second branch
 changes on third branch
+first line
+changes on second branch
