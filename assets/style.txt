@@ -1,3 +1,4 @@
-second commit
+second commit changed
 changes on second
 more changes
+changes on third 
